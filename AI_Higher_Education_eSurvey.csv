@@ -1,0 +1,51 @@
+RespondentID,Age,Gender,Role,InstitutionType,Country,AwarenessOfAITools,CurrentUsageOfAITools,TypesOfAIToolsUsed,ImprovedLearningOutcomes,EnhancedTeachingEfficiency,PersonalizationOfLearningExperiences,AccessibilityImprovements,DataPrivacyConcerns,PotentialBiasInAIAlgorithms,JobDisplacementConcerns,DependencyOnTechnology,Strengths,Weaknesses,Opportunities,Threats
+1,25,F,Administrator,Public,Australia,No,No,Adaptive learning,5,4,2,1,5,1,1,2,Personalized learning,Lack of personal interaction,Global collaboration,"Job loss, Over-reliance"
+2,48,F,Student,Private,Canada,Yes,Yes,Plagiarism detection,2,1,2,5,4,5,2,1,Efficiency in administration,Technical difficulties,Enhanced teaching,Loss of jobs
+3,46,M,Faculty,Public,Australia,Yes,Yes,Plagiarism detection,5,5,3,NA,4,5,4,2,"Enhanced engagement, Time-saving",Lack of personal interaction,Scalable solutions,"Job loss, Over-reliance"
+4,46,F,Student,Public,UK,Yes,No,Adaptive learning,NA,3,NA,4,2,4,5,5,Improved engagement,Expensive,Scalable solutions,Loss of jobs
+5,30,M,Faculty,Public,Australia,Yes,Yes,NA,NA,1,2,1,4,2,4,5,"Enhanced engagement, Time-saving",Lack of personal interaction,Enhanced teaching,Bias in data
+6,47,M,Administrator,Private,Canada,No,No,Adaptive learning,5,1,5,NA,2,1,5,5,Improved engagement,Technical difficulties,Skill development,Technological dependence
+7,59,F,Faculty,Public,Australia,Yes,Yes,NA,4,5,2,1,5,3,4,1,Improved engagement,Technical difficulties,Enhanced teaching,Data security
+8,48,F,Administrator,Private,USA,Yes,No,Virtual teaching assistants,2,5,NA,2,3,3,5,4,"Enhanced engagement, Time-saving",Technical difficulties,Innovative teaching methods,Data security
+9,19,F,Administrator,Private,Australia,Yes,Yes,NA,1,2,4,5,4,2,3,2,Potentially transformative,Privacy concerns,Scalable solutions,Data security
+10,42,M,Student,Public,India,Yes,Yes,Adaptive learning,NA,2,5,1,4,1,1,1,"Enhanced engagement, Time-saving",Privacy concerns,Enhanced teaching,Technological dependence
+11,33,F,Administrator,Public,USA,No,No,NA,2,4,2,2,4,3,4,1,Personalized learning,Privacy concerns,Skill development,Bias in data
+12,63,M,Faculty,Public,Australia,Yes,No,Plagiarism detection,NA,2,2,NA,1,4,2,1,"Enhanced engagement, Time-saving",Technical difficulties,Skill development,Technological dependence
+13,42,M,Student,Private,USA,Yes,No,Plagiarism detection,4,NA,NA,1,5,2,1,3,Potentially transformative,"Technical issues, Cost",Global collaboration,Loss of jobs
+14,63,F,Faculty,Private,UK,Yes,Yes,Adaptive learning,1,3,1,2,4,2,4,5,Personalized learning,Expensive,Enhanced teaching,"Job loss, Over-reliance"
+15,19,M,Administrator,Public,Canada,Yes,No,Plagiarism detection,1,2,4,4,4,5,4,1,Potentially transformative,Privacy concerns,Scalable solutions,"Job loss, Over-reliance"
+16,50,M,Administrator,Private,Australia,Yes,Yes,Plagiarism detection,5,1,1,2,4,1,5,1,"Enhanced engagement, Time-saving",Technical difficulties,Global collaboration,Technological dependence
+17,40,M,Student,Public,USA,Yes,Yes,Plagiarism detection,5,2,4,NA,4,1,5,2,Personalized learning,"Technical issues, Cost",Scalable solutions,Technological dependence
+18,25,M,Administrator,Public,India,Yes,No,NA,3,1,3,5,4,2,3,3,"Enhanced engagement, Time-saving",Technical difficulties,Scalable solutions,Data security
+19,27,M,Faculty,Public,Australia,No,Yes,NA,5,1,1,2,3,2,4,1,"Enhanced engagement, Time-saving","Technical issues, Cost",Scalable solutions,Data security
+20,50,F,Administrator,Private,Canada,No,Yes,Adaptive learning,5,1,NA,5,3,5,4,3,Potentially transformative,Privacy concerns,Global collaboration,Bias in data
+21,60,F,Faculty,Private,USA,Yes,No,Adaptive learning,NA,2,4,4,1,5,1,1,Improved engagement,"Technical issues, Cost",Innovative teaching methods,Technological dependence
+22,52,F,Student,Public,Canada,Yes,Yes,Virtual teaching assistants,3,2,5,3,4,4,1,3,Improved engagement,Technical difficulties,Global collaboration,"Job loss, Over-reliance"
+23,61,F,Administrator,Private,Canada,No,Yes,Virtual teaching assistants,2,4,2,3,1,1,5,2,Efficiency in administration,Expensive,Innovative teaching methods,Data security
+24,35,F,Administrator,Private,Australia,No,Yes,Adaptive learning,2,5,NA,2,2,1,5,4,Potentially transformative,Expensive,Global collaboration,Bias in data
+25,23,F,Faculty,Public,Australia,Yes,Yes,NA,2,3,5,5,2,3,1,1,Efficiency in administration,Technical difficulties,Enhanced teaching,Bias in data
+26,20,M,Student,Public,USA,Yes,Yes,Adaptive learning,3,5,1,3,5,5,4,2,Potentially transformative,"Technical issues, Cost",Skill development,Technological dependence
+27,65,F,Faculty,Public,Australia,No,No,Virtual teaching assistants,5,2,5,3,1,3,1,4,Efficiency in administration,Technical difficulties,Global collaboration,Loss of jobs
+28,33,F,Student,Public,Australia,Yes,Yes,NA,4,3,5,4,2,1,3,1,Potentially transformative,Privacy concerns,Global collaboration,Loss of jobs
+29,53,M,Student,Private,India,Yes,Yes,Virtual teaching assistants,NA,5,5,1,4,2,5,4,Improved engagement,"Technical issues, Cost",Skill development,"Job loss, Over-reliance"
+30,57,M,Faculty,Public,Canada,Yes,Yes,Plagiarism detection,NA,4,2,3,2,5,4,5,Efficiency in administration,Lack of personal interaction,Enhanced teaching,Bias in data
+31,65,F,Student,Private,Canada,Yes,No,Plagiarism detection,1,4,3,2,1,3,2,3,Improved engagement,Privacy concerns,Innovative teaching methods,Bias in data
+32,27,M,Student,Public,Canada,Yes,Yes,Virtual teaching assistants,5,3,3,NA,5,5,3,1,Improved engagement,Privacy concerns,Innovative teaching methods,Data security
+33,37,M,Administrator,Public,USA,No,Yes,Plagiarism detection,NA,3,2,2,3,5,4,2,Potentially transformative,Expensive,Enhanced teaching,Data security
+34,51,F,Student,Private,Canada,Yes,No,Adaptive learning,4,3,5,NA,5,3,2,5,Potentially transformative,Privacy concerns,Enhanced teaching,Data security
+35,35,F,Administrator,Public,USA,Yes,No,Plagiarism detection,5,NA,1,NA,3,2,1,1,"Enhanced engagement, Time-saving",Lack of personal interaction,Skill development,Loss of jobs
+36,64,F,Faculty,Private,India,Yes,No,NA,1,3,1,1,3,2,1,1,Potentially transformative,Technical difficulties,Skill development,Bias in data
+37,29,F,Administrator,Private,USA,Yes,Yes,Virtual teaching assistants,5,5,1,1,2,4,3,3,Improved engagement,Privacy concerns,Global collaboration,"Job loss, Over-reliance"
+38,59,F,Administrator,Public,Canada,No,Yes,NA,1,2,2,1,2,3,2,2,Improved engagement,"Technical issues, Cost",Scalable solutions,Data security
+39,27,M,Faculty,Private,Canada,No,No,NA,5,NA,2,4,2,2,3,3,"Enhanced engagement, Time-saving",Expensive,Innovative teaching methods,Data security
+40,64,M,Faculty,Private,Canada,No,Yes,Plagiarism detection,4,1,2,NA,2,4,2,1,Personalized learning,"Technical issues, Cost",Enhanced teaching,Bias in data
+41,49,F,Faculty,Public,USA,Yes,No,NA,2,5,2,2,5,5,4,2,Efficiency in administration,Lack of personal interaction,Global collaboration,Technological dependence
+42,61,M,Faculty,Private,USA,Yes,Yes,Adaptive learning,4,3,5,1,2,5,3,4,"Enhanced engagement, Time-saving","Technical issues, Cost",Global collaboration,Data security
+43,53,F,Administrator,Private,India,Yes,No,Plagiarism detection,3,1,2,NA,1,1,2,1,Efficiency in administration,Privacy concerns,Global collaboration,"Job loss, Over-reliance"
+44,22,F,Student,Public,Canada,No,Yes,Plagiarism detection,1,NA,2,5,5,4,1,1,Efficiency in administration,Privacy concerns,Global collaboration,"Job loss, Over-reliance"
+45,30,M,Student,Private,India,No,Yes,NA,2,4,4,3,1,1,2,1,Personalized learning,Expensive,Innovative teaching methods,Bias in data
+46,19,M,Student,Private,Australia,Yes,No,Adaptive learning,2,NA,5,1,1,5,4,4,"Enhanced engagement, Time-saving",Technical difficulties,Enhanced teaching,Loss of jobs
+47,31,F,Administrator,Public,USA,No,No,NA,4,2,3,4,4,5,3,5,Personalized learning,"Technical issues, Cost",Global collaboration,Loss of jobs
+48,22,M,Faculty,Public,USA,No,Yes,NA,2,3,4,4,3,5,5,5,Personalized learning,Lack of personal interaction,Innovative teaching methods,Technological dependence
+49,57,F,Administrator,Public,USA,Yes,No,Adaptive learning,5,5,2,1,2,2,4,5,Improved engagement,Lack of personal interaction,Skill development,"Job loss, Over-reliance"
+50,35,F,Administrator,Private,India,No,No,Virtual teaching assistants,4,4,3,5,4,2,4,4,"Enhanced engagement, Time-saving","Technical issues, Cost",Enhanced teaching,Loss of jobs
