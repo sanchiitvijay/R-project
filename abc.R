@@ -1,12 +1,12 @@
 # Load necessary libraries
 library(ggplot2)
-library(readr)
-
+library(reshape2)
+library(dplyr)
 # Load the data
 data <- read_csv("C:/Users/sanch/Downloads/rproject/AI_Higher_Education_eSurvey.csv")
 
 # Boxplots
-par(mfrow=c(2,2))
+head(data)
 
 
 # Boxplot of Age by Role
